@@ -1,3 +1,8 @@
+**NOTE:** *This product has been retired from our catalog. If you are looking for more up-to-date info, please check out some of these resources to see how other users are still hacking and improving on this product.*
+* *[SparkFun Forum](https://forum.sparkfun.com/)*
+* *[Comments Here on GitHub](https://github.com/sparkfun/GPS_Evaluation_Board_GP-2106/issues)*
+* *[IRC Channel](https://www.sparkfun.com/news/263)*
+
 SparkFun GPS Evaluation Board - GP-2106
 ========================================
 
@@ -5,7 +10,7 @@ SparkFun GPS Evaluation Board - GP-2106
 
 [*SparkFun GPS Evaluation Board - GP-2106 (GPS-10995)*](https://www.sparkfun.com/products/10995)
 
-The GP-2106 Evaluation Board features everything you need to get the GP-2106 module talking to your system. 
+The GP-2106 Evaluation Board features everything you need to get the [GP-2106 module](https://www.sparkfun.com/products/retired/10890) talking to your system. 
 Because the GP-2106 is a 1.8V module, we’ve provided level-shifting for 3.3 and 5V systems. 
 The board also features a PPS status LED, on/off button and an FTDI Basic compatible header!
 
